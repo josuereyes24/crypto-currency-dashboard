@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/josuereyes24/crypto-currency-dashboard.git/static/css/main.481f9627.chunk.css",
-    "main.js": "/josuereyes24/crypto-currency-dashboard.git/static/js/main.0611cc97.chunk.js",
-    "main.js.map": "/josuereyes24/crypto-currency-dashboard.git/static/js/main.0611cc97.chunk.js.map",
-    "runtime~main.js": "/josuereyes24/crypto-currency-dashboard.git/static/js/runtime~main.330fb5b6.js",
-    "runtime~main.js.map": "/josuereyes24/crypto-currency-dashboard.git/static/js/runtime~main.330fb5b6.js.map",
-    "static/js/2.541c8573.chunk.js": "/josuereyes24/crypto-currency-dashboard.git/static/js/2.541c8573.chunk.js",
-    "static/js/2.541c8573.chunk.js.map": "/josuereyes24/crypto-currency-dashboard.git/static/js/2.541c8573.chunk.js.map",
-    "index.html": "/josuereyes24/crypto-currency-dashboard.git/index.html",
-    "precache-manifest.1ce6606b6ef1bc34100bcc6217901021.js": "/josuereyes24/crypto-currency-dashboard.git/precache-manifest.1ce6606b6ef1bc34100bcc6217901021.js",
-    "service-worker.js": "/josuereyes24/crypto-currency-dashboard.git/service-worker.js",
-    "static/css/main.481f9627.chunk.css.map": "/josuereyes24/crypto-currency-dashboard.git/static/css/main.481f9627.chunk.css.map"
+    "main.css": "/crypto-currency-dashboard/static/css/main.481f9627.chunk.css",
+    "main.js": "/crypto-currency-dashboard/static/js/main.0611cc97.chunk.js",
+    "main.js.map": "/crypto-currency-dashboard/static/js/main.0611cc97.chunk.js.map",
+    "runtime~main.js": "/crypto-currency-dashboard/static/js/runtime~main.370ebf3f.js",
+    "runtime~main.js.map": "/crypto-currency-dashboard/static/js/runtime~main.370ebf3f.js.map",
+    "static/js/2.541c8573.chunk.js": "/crypto-currency-dashboard/static/js/2.541c8573.chunk.js",
+    "static/js/2.541c8573.chunk.js.map": "/crypto-currency-dashboard/static/js/2.541c8573.chunk.js.map",
+    "index.html": "/crypto-currency-dashboard/index.html",
+    "precache-manifest.b1ace494b4a9081d63864a900448a57b.js": "/crypto-currency-dashboard/precache-manifest.b1ace494b4a9081d63864a900448a57b.js",
+    "service-worker.js": "/crypto-currency-dashboard/service-worker.js",
+    "static/css/main.481f9627.chunk.css.map": "/crypto-currency-dashboard/static/css/main.481f9627.chunk.css.map"
   }
 }
