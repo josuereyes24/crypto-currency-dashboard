@@ -1,5 +1,5 @@
 # crypto-currency-dashboard
- URL -> https://https://josuereyes24.github.io/crypto-currency-dashboard
+ URL -> https://josuereyes24.github.io/crypto-currency-dashboard
 
 # Description
 React application used to convert various crypto currencies using the [Alpha Vantage API](https://rapidapi.com/alphavantage/api/alpha-vantage).
